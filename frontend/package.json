@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "Router": "^2.1.0",
+    "npm": "^6.14.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
