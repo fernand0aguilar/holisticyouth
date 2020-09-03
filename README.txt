@@ -1,3 +1,17 @@
+To run this project you can use docker.
+
+    docker-compose up --build
+
+or yarn
+
+    cd frontend && yarn install && yarn start
+
+access it at
+
+    localhost:3000
+
+
+
 Holystic Youth Hyperspace
 	Credits:
 		Initial html design by AJ:
